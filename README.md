@@ -1,8 +1,10 @@
-<img align="right" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3k1c2V0NXdqYTE2eWQ2OTZjenlvb28wN3o2MmY4MDhqZG56YjB5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8NlomCFNuKcGlHxT/giphy.gif"  />
+<h2 align="center">Hi! My name is Edoardo Henrique and i'm from Brazil.</h2>
 
 ###
 
-<h2 align="left">Hi! My name is Edoardo Henrique and i'm from Brazil.</h2>
+<div align="center">
+  <img height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3k1c2V0NXdqYTE2eWQ2OTZjenlvb28wN3o2MmY4MDhqZG56YjB5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1K8NlomCFNuKcGlHxT/giphy.gif"  />
+</div>
 
 ###
 
